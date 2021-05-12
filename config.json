@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/newswebsite",
+    "prod_uri":"mysql://root:@localhost/newswebsite",
+    
+    "blog_name": "Buzz Street Times",
+    "tag_line": "Leading the way.",
+   
+    "about_text": "Buzz Street Times founded in 2021 is India’s leading News Portal with the aim of reaching millions of Indians in India and significantly worldwide Indian Diaspora who are eager to stay in touch with India based news and stories because of the varied contents presented in an eye pleasing design format. It has taken a prominent position in the web market and quickly progressing to capture the top slot. We also remain clung to the tree of journalistic ethics by serving the fresh news on the platter of absolute authenticity and our comments stand only as a guard so that all the users of our portal do not carried away from the truth.Our news persons are prompt in responding to any event by collecting first hand data. Personal interviews of concerned people of that event or incident reinforce the fabric of the information not to say our questionnaires are very yielding.sWe are updating the news promptly and swiftly keeping the net users updated with the latest news covering a wide area in politics, sports, entertainment, health, books, business and others. We are also covering India’s 11 states viz Rajasthan, Delhi, Haryana, Bihar, Chhattisgarh, Himachal Pradesh, Madhya Pradesh, Uttar Pradesh and Punjab with our own staff network.We provide a platform to the viewers as the most respected and trusted source for news and information. Our news portal has been designed in the most convenient manner so as to locate the desired news instantly. Today it is becoming the popular internet media web portal in Hindi news.",
+    "no_of_posts": 3,
+    "login_image":"logo.png",
+    "admin_user":"dbms",
+    "admin_password": "dbms"
+   
+
+
+  }
+
+}
